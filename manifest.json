@@ -1,0 +1,16 @@
+{
+	"BundleType": "Application",
+	"AppIcon": {
+		"36x18": "repeat-one.png"
+	},
+	"AppName": {
+		"en": "Repeat One"
+	},
+	"AcceptedLinkTypes": [
+		"track"
+	],
+	"SupportedLanguages": [
+		"en"
+	],
+	"UserInstallable": true
+}
